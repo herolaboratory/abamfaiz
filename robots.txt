@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://herolaboratory.github.io/abamfaiz/sitemap.xml
